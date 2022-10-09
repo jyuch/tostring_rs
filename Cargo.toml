@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "tostring",
+    "tostring_macro",
+    "tostring_macro_internals",
+]
